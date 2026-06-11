@@ -121,19 +121,18 @@ Building Intelligent Solutions with AI & Technology
 ## ✨ Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/kacham-janani-8b2766307">
-<img src="https://img.shields.io/badge/LinkedIn-FF8FAB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/JananiKacham" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<a href="https://linkedin.com/in/kacham-janani-8b2766307" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
 <a href="mailto:kachamjanani11@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF8FAB?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/JananiKacham">
-<img src="https://img.shields.io/badge/GitHub-FF8FAB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="45" />
 </a>
 </p>
-
 ---
 
 <p align="center">
