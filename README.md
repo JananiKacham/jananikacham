@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FFB6C1,FDDDE6&height=250&section=header&text=Janani%20Kacham%20🌸&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20ML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF85A2&height=250&section=header&text=Janani%20Kacham%20🌸&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">💖 Welcome To My GitHub 💖</h1>
