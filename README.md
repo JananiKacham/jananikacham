@@ -1,191 +1,133 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF85A2&height=250&section=header&text=Janani%20Kacham%20&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8FAB&height=240&section=header&text=Janani%20Kacham&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 </p>
 
-<h1 align="center">Welcome To My GitHub</h1>
-
-<p align="center">
-✨ Passionate about Artificial Intelligence, Machine Learning, Full Stack Development, and creating impactful solutions ✨
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student+🌸;Full+Stack+Developer+💻;Research+Author+📄;Building+Intelligent+Solutions+✨"/>
-</p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=3"/>
-
-# 🌷 About Me
-
-🎓 B.Tech CSE (AI & ML)
-
-✨ AI & Machine Learning Enthusiast
-
-💻 Full Stack Developer
-
-📄 Published Research Author
-
-🌱 Exploring Generative AI, Computer Vision & NLP
-
-🚀 Building Real-World Intelligent Applications
-
-✨ Always Learning & Growing
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FDDDE6&height=3"/>
-
-# 🌸 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql,mongodb,git,github,vscode"/>
-</p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=3"/>
-
-# 🚀 Featured Projects
-
-### 🤖 Vision-Based 4-DOF Robotic Arm
-
-✨ Real-time object detection using OpenCV & MediaPipe
-
-✨ Raspberry Pi integration
-
-✨ Automated object sorting system
-
----
-
-### 🎤 Mock Interview Platform
-
-✨ AI-powered interview evaluation
-
-✨ Candidate, HR & Admin dashboards
-
-✨ Subscription-based architecture
-
----
-
-### 💰 AI Expense Tracker
-
-✨ Expense tracking with AI insights
-
-✨ Emotional spending analysis
-
-✨ Published research project
-
----
-
-### 🩺 LifeLens – AI Health Analysis App
-
-✨ Personalized wellness recommendations
-
-✨ Health analytics dashboard
-
-✨ Interactive assessment reports
-
----
-
-### 💱 Real-Time Currency Converter
-
-✨ Live currency exchange rates
-
-✨ REST API integration
-
-✨ Responsive UI
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FDDDE6&height=3"/>
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JananiKacham&show_icons=true&theme=omni"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiKacham&layout=compact&theme=omni"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JananiKacham&theme=omni"/>
-</p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=3"/>
-
-# 🌱 Currently Exploring
-
-✨ Generative AI
-
-✨ Machine Learning
-
-✨ Computer Vision
-
-✨ Full Stack Development
-
-✨ Open Source Projects
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FDDDE6&height=3"/>
-
-# 🏆 Achievements
-
-📄 Published Research Paper
-
-🎓 Strong Academic Performance
-
-🤖 Experience with OpenAI API & Gemini API
-
-💡 Developed Multiple AI Applications
-
-✨ Continuous Learning Journey
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=3"/>
-
-# 🎀 Connect With Me
+<h3 align="center">
+Building Intelligent Solutions with AI & Technology
+</h3>
 
 <p align="center">
 <a href="https://github.com/JananiKacham">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=JananiKacham&label=Profile%20Views&color=ff8fab&style=flat"/>
 </a>
+</p>
 
+---
+
+## ✨ About Me
+
+🎓 B.Tech Computer Science & Engineering (AI & ML)
+
+🤖 Passionate about Artificial Intelligence and Machine Learning
+
+💻 Full Stack Developer focused on building impactful applications
+
+📄 Published Research Author
+
+🌱 Currently exploring Generative AI, Computer Vision, and Intelligent Systems
+
+🚀 Open to learning, collaboration, and innovative projects
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFB3C6&height=2"/>
+
+## ✨ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql,mongodb,git,github,vscode" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFB3C6&height=2"/>
+
+## ✨ Featured Projects
+
+### 🤖 Vision-Based 4-DOF Robotic Arm
+
+- Developed an object-sorting robotic arm using Computer Vision.
+- Implemented OpenCV and MediaPipe for real-time object detection.
+- Integrated Raspberry Pi for hardware control and automation.
+
+### 💻 Mock Interview Platform
+
+- Built a role-based interview preparation platform.
+- Integrated AI-powered candidate evaluation.
+- Designed dashboards for Candidates, HR, and Administrators.
+
+### 📊 AI Expense Tracker
+
+- Developed an intelligent expense tracking application.
+- Generated personalized spending insights using AI.
+- Research work published in an academic journal.
+
+### 🩺 LifeLens – AI Health Analysis App
+
+- Created an interactive health assessment platform.
+- Generated personalized wellness recommendations and reports.
+
+### 💱 Real-Time Currency Converter
+
+- Developed a responsive currency conversion application.
+- Integrated live exchange rates through REST APIs.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFB3C6&height=2"/>
+
+## ✨ GitHub Analytics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JananiKacham&show_icons=true&theme=default&title_color=FF8FAB&icon_color=FF8FAB&text_color=555555"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiKacham&layout=compact&title_color=FF8FAB"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JananiKacham&ring=FF8FAB&fire=FF8FAB&currStreakLabel=FF8FAB"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFB3C6&height=2"/>
+
+## ✨ Achievements
+
+📄 Published research paper on AI-powered expense analysis
+
+🎓 Consistently maintained strong academic performance
+
+🤖 Hands-on experience with OpenAI API and Gemini API
+
+💡 Developed multiple AI-powered applications
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFB3C6&height=2"/>
+
+## ✨ Currently Exploring
+
+- Generative AI
+- Machine Learning
+- Computer Vision
+- Full Stack Development
+- Open Source Contributions
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFB3C6&height=2"/>
+
+## ✨ Connect With Me
+
+<p align="center">
 <a href="https://linkedin.com/in/kacham-janani-8b2766307">
-<img src="https://img.shields.io/badge/LinkedIn-FF85A2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-FF8FAB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kachamjanani11@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF8FAB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JananiKacham">
+<img src="https://img.shields.io/badge/GitHub-FF8FAB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-# 🌸 Fun Zone
-
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=rose"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=JananiKacham&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+Turning Ideas Into Intelligent Solutions ✨
 </p>
 
 <p align="center">
-🌷 Turning Ideas Into Intelligent Solutions 🌷
-</p>
-
-<p align="center">
-Thanks For Visiting My Profile
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FDDDE6,FFB6C1,FF69B4&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8FAB&height=120&section=footer"/>
 </p>
