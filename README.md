@@ -70,6 +70,18 @@ Building Intelligent Solutions with AI & Technology
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFB3C6&height=2"/>
 
+## ✨ Experience
+
+### 📊 Data Science Intern | Stellar E Learning Pvt. Ltd.
+
+📍 Hyderabad, India | Jan 2026 – May 2026
+
+- Worked on AI and Data Analytics projects involving real-world industry datasets.
+- Gained hands-on experience with analytical methodologies, data-driven decision making, and AI applications.
+- Collaborated in a hybrid work environment while contributing to project-based solutions.
+- Applied data analysis techniques to extract insights and support business objectives.
+- Strengthened practical skills in Data Science, Machine Learning, and AI-driven workflows.
+
 ## ✨ GitHub Analytics
 
 <p align="center">
