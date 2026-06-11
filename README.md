@@ -82,6 +82,8 @@ Building Intelligent Solutions with AI & Technology
 - Applied data analysis techniques to extract insights and support business objectives.
 - Strengthened practical skills in Data Science, Machine Learning, and AI-driven workflows.
 
+---
+
 ## ✨ GitHub Analytics
 
 <p align="center">
