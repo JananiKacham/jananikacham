@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF85A2&height=250&section=header&text=Janani%20Kacham%20🌸&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF85A2&height=250&section=header&text=Janani%20Kacham%20&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">💖 Welcome To My GitHub 💖</h1>
+<h1 align="center">Welcome To My GitHub</h1>
 
 <p align="center">
 ✨ Passionate about Artificial Intelligence, Machine Learning, Full Stack Development, and creating impactful solutions ✨
@@ -20,7 +20,7 @@
 
 🎓 B.Tech CSE (AI & ML)
 
-💖 AI & Machine Learning Enthusiast
+✨ AI & Machine Learning Enthusiast
 
 💻 Full Stack Developer
 
@@ -78,7 +78,7 @@
 
 ---
 
-### ❤️ LifeLens – AI Health Analysis App
+### 🩺 LifeLens – AI Health Analysis App
 
 ✨ Personalized wellness recommendations
 
@@ -118,13 +118,13 @@
 
 # 🌱 Currently Exploring
 
-💖 Generative AI
+✨ Generative AI
 
-🌸 Machine Learning
+✨ Machine Learning
 
-🎀 Computer Vision
+✨ Computer Vision
 
-💻 Full Stack Development
+✨ Full Stack Development
 
 ✨ Open Source Projects
 
@@ -148,7 +148,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=3"/>
 
-# 💕 Connect With Me
+# 🎀 Connect With Me
 
 <p align="center">
 <a href="https://github.com/JananiKacham">
@@ -183,7 +183,7 @@
 </p>
 
 <p align="center">
-💖 Thanks For Visiting My Profile 💖
+Thanks For Visiting My Profile
 </p>
 
 <p align="center">
