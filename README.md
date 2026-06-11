@@ -133,6 +133,7 @@ Building Intelligent Solutions with AI & Technology
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="45" />
 </a>
 </p>
+
 ---
 
 <p align="center">
